@@ -1,0 +1,70 @@
+<html>
+<head>
+	<title>News - Maphina's Site</title>
+	<link rel = "stylesheet" type = "text/css" href = "style.css" />
+  <link rel = "stylesheet" type = "text/css" href = "bodystyle.css" />
+  <link rel="stylesheet" type="text/css" href="icons/css/font-awesome.css">
+  <link rel="stylesheet" type="text/css" href="icons/css/font-awesome.min.css">
+  <link href="mainLogo.png" rel="shortcut icon">
+ </head>
+</head>
+<body bgcolor="grey">
+<div class="navAbo">
+		<div class="navLog">
+			<a href="index.html">
+				<img src="mainLogo.png" width="100px" height="100px">
+			</a>
+		</div>
+		<div class="navHead"><h2>Musical Instrument</h2></div>
+	</div>
+<div style="clear: both;">
+<header>
+    <div class="nav" >
+       <ul>
+       <li><a href="index.html">Home</a></li>
+        <li><a href="mens.html">Mens</a></li>
+        <li><a href="womens.html">Womens</a></li>
+        <li><a href="jwellery.html">Jwellery</a></li>
+        <li><a href="apperal.html">Apperal</a></li>
+        <li><a href="suggestion.html">Suggestion</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+      </ul>
+    </div>
+  </header>
+
+<center>
+  <div class="listBody">
+     <div>
+       <a href="" target="_blank"><img src="images/acordion.jpg" title="Acordion" alt="Acordion"> </a>
+       <a href="" target="_blank"><img src="images/dru.jpg" title="Drum" alt="Drum"></a>
+       <a href="" target="_blank"><img src="images/flute.jpg" title="Flute" alt="Flute"></a>
+     </div>
+     <div>
+       <a href="" target="_blank"><img src="images/guitar.jpg" title="Guitar" alt="Guitar"></a>
+       <a href="" target="_blank"><img src="images/harmonica.jpg" title="Harmonica" alt="Harmonica"></a>
+        <a href="" target="_blank"><img src="images/piano.jpg" title="Piano" alt="Piano"></a>
+     </div>
+     <div>
+       <a href="" target="_blank"><img src="images/sexaphone.jpg" title="Sexaphone" alt="Sexaphone"></a>
+       <a href="" target="_blank"><img src="images/snareDrum.jpg" title="Snare Drum" alt="Snare Drum"></a>
+       <a href="" target="_blank"><img src="images/trumpet.jpg" title="Trumpet" alt="Trumpet"></a>
+     </div>
+     <div>
+       <a href="" target="_blank"><img src="images/violin.jpg" title="Violin" alt="Violin"></a>
+     </div>
+    
+  </div>
+</center>
+
+</body>
+<center>
+  <footer>
+      <a href="https://www.facebook.com/maphina.maharjan"><i class="fa fa-facebook-square 3x" style="font-size: 32px; "> | </i></strong></a>  
+
+      <a href="https://www.instagram.com/maphina_maharjan/" ><i class="fa fa-instagram" style="font-size: 32px; "> | </i></a> 
+
+      <a href="https://www.youtube.com/" style="font-size: 32px; "><i class="fa fa-youtube"></i></a>
+  </footer>
+</center>
+</html>
